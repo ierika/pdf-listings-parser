@@ -1,2 +1,3 @@
-# pdf-listings-parser
-Parser listings in PDF format
+# PDF Listings Parser
+
+Parses real-estate listings that are in PDF format.
